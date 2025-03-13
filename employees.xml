@@ -2,10 +2,7 @@
 <Company>
     <Employee>
         <ID>1</ID>
-        <Name>
-            <FullName>John Doe</FullName>
-            <Nickname>Johnny</Nickname>
-        </Name>
+        <Name>John Doe</Name>
         <Position>Software Engineer</Position>
         <Department>Development</Department>
         <Salary>75000</Salary>
