@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+    <Employee>
+        <ID>1</ID>
+        <Name>
+            <FullName>John Doe</FullName>
+            <Nickname>Johnny</Nickname>
+        </Name>
+        <Position>Software Engineer</Position>
+        <Department>Development</Department>
+        <Salary>75000</Salary>
+    </Employee>
+    <Employee>
+        <ID>2</ID>
+        <Name>Jane Smith</Name>
+        <Position>Project Manager</Position>
+        <Department>Management</Department>
+        <Salary>90000</Salary>
+    </Employee>
+    <Employee>
+        <ID>3</ID>
+        <Name>Bob Johnson</Name>
+        <Position>QA Analyst</Position>
+        <Department>Quality Assurance</Department>
+        <Salary>60000</Salary>
+    </Employee>
+</Company>

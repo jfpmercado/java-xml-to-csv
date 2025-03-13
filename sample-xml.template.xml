@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+    <Item>
+        <ID>1</ID>
+        <Name>Banana</Name>
+        <Category>Fruit</Category>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Name>Apple</Name>
+        <Category>Fruit</Category>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Name>Carrot</Name>
+        <Category>Vegetable</Category>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Name>Broccoli</Name>
+        <Category>Vegetable</Category>
+    </Item>
+</Items>
